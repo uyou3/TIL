@@ -57,3 +57,6 @@ print( not a )
 
 a = ''
 print(not a) # true 
+
+
+# 수정함 0723
